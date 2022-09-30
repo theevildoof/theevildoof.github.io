@@ -15,10 +15,11 @@ social: False  # includes social icons at the bottom of the page
 ---
 
 
+
+
 I'm a student of IIT Madras, majoring in Biological Engineering.  
 
 I'm currently interested in Machine Learning, electronics, Computer vision, robotics and game development.
-
 
 
 [Twitter](https://twitter.com/theevildoof)
