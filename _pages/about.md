@@ -25,8 +25,8 @@ I'm currently interested in Machine Learning, electronics, Computer vision, robo
 [LinkedIn](https://www.linkedin.com/in/vishwa181/)
 [Hackster.io](https://www.hackster.io/theevildoof)
 [Github](https://github.com/theevildoof)
-[Hackaday] (https://hackaday.io/theevildoof)
-[Medium] (https://medium.com/@vishwa181)
-[Kaggle] (https://www.kaggle.com/theevildoof)
-[Arduino] (https://create.arduino.cc/projecthub/theevildoof)
+[Hackaday](https://hackaday.io/theevildoof)
+[Medium](https://medium.com/@vishwa181)
+[Kaggle](https://www.kaggle.com/theevildoof)
+[Arduino](https://create.arduino.cc/projecthub/theevildoof)
 
