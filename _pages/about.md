@@ -14,7 +14,6 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
 
-! This Website is currently under development !
 
 I'm a student of IIT Madras, majoring in Biological Engineering.  
 
@@ -22,8 +21,12 @@ I'm currently interested in Machine Learning, electronics, Computer vision, robo
 
 
 
-[Twitter]()
-[LinkedIn]()
-[Hackster.io]()
-[Github]()
+[Twitter](https://twitter.com/theevildoof)
+[LinkedIn](https://www.linkedin.com/in/vishwa181/)
+[Hackster.io](https://www.hackster.io/theevildoof)
+[Github](https://github.com/theevildoof)
+[Hackaday] (https://hackaday.io/theevildoof)
+[Medium] (https://medium.com/@vishwa181)
+[Kaggle] (https://www.kaggle.com/theevildoof)
+[Arduino] (https://create.arduino.cc/projecthub/theevildoof)
 
