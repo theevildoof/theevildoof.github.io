@@ -97,7 +97,7 @@
 #         - Max Planck Medal
 
 - title: Personal Projects
-  type: nested_list
+  type: list
   contents:
     - Recreated the Snake game in an LED dot matrix to be played using a Playstation controller
     - Constructed a RC car using ESP8266 and Arduino UNO that can be controlled via internet
