@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Vishwa
     - name: Languages
-      value: English, German
+      value: English, Tamil, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Dual Degree in Biological Engineering (B.Tech + M.Tech)
+      institution: ndian Institute of Technology Madras 
+      year: 2020 - 2025
+    - title: Class XII (CBSE)
+      institution: Achariya Bala Siksha Mandir, Puducherry
+      year: 2019
+    - title: Class X (CBSE)
+      institution: Achariya Bala Siksha Mandir, Puducherry
+      year: 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Student Developer | TensorFlow
+      institution: Google Summer of Code
+      year: May 2022 - Sep 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed a 3D Unity Terrain Game and integrated a microcontroller running a time-series data based gesture recognition TinyML model to recognize gestures and rotations, with the game.
+        - Trained and optimized a CNN-based TinyML model to work on an Arduino Nano 33 BLE Sense with OV7670 camera module and ST7735 TFT LCD module to recognise numbers.
+        -  Documented the projects and TinyML how-to guides for hobbyists in a total of 13 Hackster.io blogs which received a total of 10000+ unique views and 50+ likes as of September 2022.
+    
+    - title: Coordinator - Publicity Team
+      institution: Shaastra, IIT Madras
+      year: Jun 2021 - Apr 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Designed an exhaustive booklet for SHAASTRA, annual technical festival of IIT Madras 2022
+        - Coordinated and conducted SHAASTRA SPARK and SHAASTRA SAMPARK to publicize SHAASTRA with 9000+ turnout along with other coordinators 
+        - Managed a team of 20 Campus Ambassadors for a period of 2 months to publicize SHAASTRA
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Contigent Member - Inter IIT Tech Meet
+      institution: Inter IIT Tech Meet 10.0
+      year: Jan 2022 - Apr 2022
       description:
+        - Implemented a Decision Tree Classifier model to map symptoms to possible diseases, to be integrated into a chatbot to detect symptoms and map the right doctors to patients.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Workshop Trainer - Shaastra 2023
+      institution: Shaastra, IIT Madras
+      year: Jan 2023
+      description:
+        - Conducted a 6 hour workshop titled “Become a 10x Developer” covering linux programming and bash scripting concepts with 30+ registrations
 
+    - title: Workshop Trainer - Shaastra 2022
+      institution: Shaastra, IIT Madras
+      year: Jan 2022
+      description:
+        - Conducted a 6 hour workshop titled “Hacking with Microcontrollers” covering networking concepts, vulnerabilities with 40+ registrations
+    
+    - title: Coordinator - Electronics Club
+      institution: Electronics Club, CFI, IIT Madras
+      year: May 2021 - May 2022
+      description:
+        - Successfully planned and conducted a 4-week session on IoT, Cloud computing, ML, Micropython, PCB design and Digital design with 350+ turnout; team of 11 other coordinators
+        - Successfully conducted a session on Intro to PCB designing with a turnout of 60+ participants
+    
+    - title: Project Member - Hardware Accelerator for Deep Learning  
+      institution: Electronics Club, CFI, IIT Madras
+      year: May 2021 - May 2022
+      description:
+        - Audited the Deep Learning for Computer Vision course by the University of Michigan.
+        - Coded forward propagation of Mobile-Net architecture from scratch with tensors and loops 
+        - Designed and tested a hexadecimal counter and scroll text functionality on a FPGA simulator
+        - Implemented non-synthesizable scalable versions of a Convolutional Neural Networks and Fully Connected Layer neural networks in verilog and coded up tests to benchmark for various inputs 
+
+    - title: Project Member - Smartwatch
+      institution: Electronics Club, CFI, IIT Madras
+      year: May 2021 - May 2022
+      description:
+        - Built a prototype to interface with pressure (BMP280) , inertial measurement unit (MPU6050), heart-rate (MAX30102), real-time clock (DS3231), TFT LCD sensors over I2C and SPI protocols, with WiFi, Bluetooth LE and Over-The-Air update functionalities
+        - Researched on displays, tactile feedback, battery and energy consumption reduction solutions
+    
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://summerofcode.withgoogle.com/programs/2022/projects/8GgkzjIp">Google Summer of Code</a>
+      year: May 2022 - Sep 2022
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Academic Interests
+- title: Personal Projects
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Recreated the Snake game in an LED dot matrix to be played using a Playstation controller
+    - title: Constructed a RC car using ESP8266 and Arduino UNO that can be controlled via internet
+    - title: Designed a web scraper using BeautifulSoup to scrape text data from a dynamic website, processed it locally to find words from a 20 x 20 puzzle to solve an life skills assignment 
+    - title: Developed a 2D paddle Android game using procedural map generation and scripting in Unity 
+    - title: Built an Arcade game on the ESP32 development board using OLED display and IMU sensors
+    - title: Engineered a original game on Arduino UNO using a display, LED dot matrix and a buzzer
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
