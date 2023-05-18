@@ -9,9 +9,9 @@ profile:
   image_circular: True # crops the image to make it circular
 
 
-news: true  # includes a list of news items
+news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
-social: False  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 
@@ -19,8 +19,9 @@ social: False  # includes social icons at the bottom of the page
 
 I'm a student of IIT Madras, majoring in Biological Engineering.  
 
-I'm currently interested in Machine Learning, electronics, Computer vision, robotics and game development.
+I'm currently working in Machine learning, Electronics and Game development.
 
+I'm interested in exploring Web Development, Computer vision, Robotics and Reinforcement learning.
 
 [Twitter](https://twitter.com/theevildoof)
 [LinkedIn](https://www.linkedin.com/in/vishwa181/)
