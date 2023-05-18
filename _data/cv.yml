@@ -99,12 +99,12 @@
 - title: Personal Projects
   type: nested_list
   contents:
-    - title: Recreated the Snake game in an LED dot matrix to be played using a Playstation controller
-    - title: Constructed a RC car using ESP8266 and Arduino UNO that can be controlled via internet
-    - title: Designed a web scraper using BeautifulSoup to scrape text data from a dynamic website, processed it locally to find words from a 20 x 20 puzzle to solve an life skills assignment 
-    - title: Developed a 2D paddle Android game using procedural map generation and scripting in Unity 
-    - title: Built an Arcade game on the ESP32 development board using OLED display and IMU sensors
-    - title: Engineered a original game on Arduino UNO using a display, LED dot matrix and a buzzer
+    - Recreated the Snake game in an LED dot matrix to be played using a Playstation controller
+    - Constructed a RC car using ESP8266 and Arduino UNO that can be controlled via internet
+    - Designed a web scraper using BeautifulSoup to scrape text data from a dynamic website, processed it locally to find words from a 20 x 20 puzzle to solve an life skills assignment 
+    - Developed a 2D paddle Android game using procedural map generation and scripting in Unity 
+    - Built an Arcade game on the ESP32 development board using OLED display and IMU sensors
+    - Engineered a original game on Arduino UNO using a display, LED dot matrix and a buzzer
 
 # - title: Other Interests
 #   type: list
