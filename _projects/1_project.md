@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 3D Unity game using MPU6050 and TinyML Tutorial
+description: Ever wanted to build your own Unity game, use an accelerometer for the controller or sprinkle a bit of AI in it? Well, here's how!
+img: assets/img/7.jpg
+redirect: https://www.hackster.io/theevildoof/3d-unity-game-using-mpu6050-and-tinyml-tutorial-8e3076
 importance: 1
-category: work
+category: Google Summer of Code 2022
 ---
 
 Every project has a beautiful feature showcase page.

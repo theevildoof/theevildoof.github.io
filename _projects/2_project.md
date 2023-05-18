@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: TinyML image recognition with OV7670 Camera module!
+description: Want to build your own TinyML image recognition application? This blog contains all the necessary details for you to get started
+img: assets/img/7.jpg
+redirect: https://www.hackster.io/theevildoof/tutorial-tinyml-with-ov7670-camera-module-302e35
 importance: 2
-category: work
+category: Google Summer of Code 2022
 ---
 
 Every project has a beautiful feature showcase page.
