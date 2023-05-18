@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Open Source Smartwatch
-description: Open sourcing the firmware of a smartwatch is the core idea behind this project. It has currently passed the prototyping phase. The next step is PCB Designing and porting the code base to esp-idf platform.
+title: Arcade game in Arduino UNO using LCD display and led matrix
+description: This game uses the LCD display, dot matrix, piezoelectric buzzer, Arduino and keeps track of your score and health throughout the game while the player(a spaceship) dodges and shoots asteroids.
 img: assets/img/7.jpg
-redirect: https://github.com/theevildoof/Smartwatch_From_Scratch
-importance: 3
+redirect: https://photos.app.goo.gl/xRpTQTtkF7zxz7UPA
+importance: 9
 category: fun
 ---
 

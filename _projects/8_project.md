@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Open Source Smartwatch
-description: Open sourcing the firmware of a smartwatch is the core idea behind this project. It has currently passed the prototyping phase. The next step is PCB Designing and porting the code base to esp-idf platform.
+title: Snake game in Arduino with Play Station Controller
+description: I recreated the snake game to be played using a Play station controller on a dot matrix.
 img: assets/img/7.jpg
-redirect: https://github.com/theevildoof/Smartwatch_From_Scratch
-importance: 3
+redirect: https://photos.app.goo.gl/ShVggU6jXyXnEa3S8
+importance: 8
 category: fun
 ---
 

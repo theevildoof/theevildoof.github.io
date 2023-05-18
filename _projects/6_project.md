@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Open Source Smartwatch
-description: Open sourcing the firmware of a smartwatch is the core idea behind this project. It has currently passed the prototyping phase. The next step is PCB Designing and porting the code base to esp-idf platform.
+title: Dynamic Website Web scraper
+description: I solved my life skills assignment using code to scrape data from a dynamic website and sift through a 20 x 20 puzzle to find out the feel-good words in it.
 img: assets/img/7.jpg
-redirect: https://github.com/theevildoof/Smartwatch_From_Scratch
-importance: 3
+redirect: https://photos.app.goo.gl/ss3gKPhQnNa1ahYq8
+importance: 6
 category: fun
 ---
 

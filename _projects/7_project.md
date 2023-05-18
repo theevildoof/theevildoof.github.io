@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Open Source Smartwatch
-description: Open sourcing the firmware of a smartwatch is the core idea behind this project. It has currently passed the prototyping phase. The next step is PCB Designing and porting the code base to esp-idf platform.
+title: WiFi Controlled RC car using ESP8266 and Arduino
+description: I used the ESP8266 board to host a web server to get and post data to it and used the i2c bus to communicate with the Arduino board to control the motors using a motor driver connected to the Arduino board.
 img: assets/img/7.jpg
-redirect: https://github.com/theevildoof/Smartwatch_From_Scratch
-importance: 3
+redirect: https://photos.app.goo.gl/iMXNBdUd1M9E2a9Z8
+importance: 7
 category: fun
 ---
 

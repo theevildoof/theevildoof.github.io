@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Open Source Smartwatch
-description: Open sourcing the firmware of a smartwatch is the core idea behind this project. It has currently passed the prototyping phase. The next step is PCB Designing and porting the code base to esp-idf platform.
+title: Accelerometer based game on Electronics Club Dev Board
+description: This is a game I built using a OLED display and inbuilt IMU sensors on the ESP32 Dev Board, made by the Electronics Club of IITM.
 img: assets/img/7.jpg
-redirect: https://github.com/theevildoof/Smartwatch_From_Scratch
-importance: 3
+redirect: https://photos.app.goo.gl/acjc3FqKFe7oYXZ1A
+importance: 5
 category: fun
 ---
 
