@@ -39,6 +39,18 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+          
+          {%- if page.social %}
+          <!-- Social icons below about text -->
+          <div class="social" style="margin-top: 20px; text-align: center;">
+            <div class="contact-icons" style="font-size: 1.79em;">
+            {% include social.html %}
+            </div>
+            <div class="contact-note" style="margin-top: 10px; text-align: center;">
+              {{ site.contact_note }}
+            </div>
+          </div>
+          {%- endif %}
 
           {% if page.news -%}
           <!-- News -->
@@ -47,19 +59,6 @@ layout: default
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
-          {%- endif %}
-          {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
-
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
-          </div>
           {%- endif %}
         </article>
 

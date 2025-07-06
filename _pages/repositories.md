@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: <span style="color:#DC143C;">repositories</span>
 description: My top repositories
 nav: true
 nav_order: 2

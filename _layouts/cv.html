@@ -17,6 +17,8 @@ layout: default
                   <div>
                   {% if entry.type == "list" %}
                     {% include cv/list.html %}
+                  {% elsif entry.type == "compact_list" %}
+                    {% include cv/compact_list.html %}
                   {% elsif entry.type == "map" %}
                     {% include cv/map.html %}
                   {% elsif entry.type == "nested_list" %}
