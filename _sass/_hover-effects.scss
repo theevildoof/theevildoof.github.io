@@ -27,7 +27,7 @@
 // Dark mode CV card hover
 html[data-theme='dark'] .cv .card:hover {
   box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
-  background-color: #2A2A2A; // Slightly lighter on hover
+  background: rgba(255, 255, 255, 0.15) !important; // Keep translucent
 }
 
 // Blog post cards hover effects
@@ -41,8 +41,7 @@ article.post-preview,
   margin-bottom: 1.5rem;
   
   &:hover {
-    transform: translateY(-4px);
-    background-color: rgba(220, 20, 60, 0.05); // Very subtle Ferrari red tint
+    transform: translateY(-5px);
     box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
     border-left: 4px solid var(--global-theme-color); // Ferrari red accent
   }
@@ -53,7 +52,6 @@ html[data-theme='dark'] .post-entry:hover,
 html[data-theme='dark'] .post-preview:hover,
 html[data-theme='dark'] article.post-preview:hover,
 html[data-theme='dark'] .post-list li:hover {
-  background-color: rgba(220, 20, 60, 0.08);
   box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
 }
 

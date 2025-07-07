@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: <span style="color:#DC143C;">CV</span>
+title: CV
 nav: true
 nav_order: 2
 # cv_pdf: example_pdf.pdf
