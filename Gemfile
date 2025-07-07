@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# Force use of system default gems to avoid conflicts
+gem 'uri', '0.10.1'
+
 group :jekyll_plugins do
     gem 'jekyll', '~> 4.3.0'
     gem 'jekyll-archives'
