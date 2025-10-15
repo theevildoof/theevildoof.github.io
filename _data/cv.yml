@@ -27,7 +27,7 @@
   type: time_table
   contents:
     - title: Transfer Learning in Motor Imagery decoding - Reproducibility & Standardized Benchmarks
-      institution: Machine Learning for Health Conference 2025 (Submitted)
+      institution: Learning from Time Series for Health Workshop, NeurIPS 2025 (Accepted)
       year: 2025
       description:
         - "Authors: Vishwa Ramkumar, Chandrashekar Lakshminarayanan"
